@@ -21,9 +21,11 @@ markers:
   - {type: line-break, offset: 12, content: '', id: KR4e0148_WYG_014-1a03}
   - {type: indent, offset: 12, content: 　　, id: KR4e0148_WYG_014-bkkind5}
   - {type: punctuation, offset: 14, content: (, id: KR4e0148_WYG_014-bkkpn1}
+  - {type: voice, offset: 14, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 16, content: /, id: KR4e0148_WYG_014-bkkpn2}
   - {type: punctuation, offset: 16, content: ), id: KR4e0148_WYG_014-bkkpn3}
   - {type: punctuation, offset: 18, content: (, id: KR4e0148_WYG_014-bkkpn4}
+  - {type: voice, offset: 18, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 20, content: /, id: KR4e0148_WYG_014-bkkpn5}
   - {type: punctuation, offset: 20, content: ), id: KR4e0148_WYG_014-bkkpn6}
   - {type: 'kr:newline', offset: 20, content: '
@@ -288,6 +290,7 @@ markers:
       ', id: KR4e0148_WYG_014-bkkkrnewl67}
   - {type: line-break, offset: 1203, content: '', id: KR4e0148_WYG_014-4b05}
   - {type: punctuation, offset: 1219, content: (, id: KR4e0148_WYG_014-bkkpn7}
+  - {type: voice, offset: 1219, length: 11, name: note, id: n3}
   - {type: punctuation, offset: 1224, content: /, id: KR4e0148_WYG_014-bkkpn8}
   - {type: punctuation, offset: 1229, content: ), id: KR4e0148_WYG_014-bkkpn9}
   - {type: 'kr:newline', offset: 1229, content: '
@@ -298,6 +301,7 @@ markers:
   - {type: punctuation, offset: 1230, content: /, id: KR4e0148_WYG_014-bkkpn11}
   - {type: punctuation, offset: 1230, content: ), id: KR4e0148_WYG_014-bkkpn12}
   - {type: punctuation, offset: 1244, content: (, id: KR4e0148_WYG_014-bkkpn13}
+  - {type: voice, offset: 1244, length: 6, name: note, id: n4}
   - {type: punctuation, offset: 1247, content: /, id: KR4e0148_WYG_014-bkkpn14}
   - {type: punctuation, offset: 1250, content: ), id: KR4e0148_WYG_014-bkkpn15}
   - {type: 'kr:newline', offset: 1253, content: '
@@ -1548,4 +1552,4 @@ markers:
 
       ', id: KR4e0148_WYG_014-bkkkrnewl377}
   back: []
-hash: sha256:947e9645f17b8463d79924fed35a699315b823d05576d2fdd38f800908be833d
+hash: sha256:db12b2be864b9da9ad7436bf0a5fc3030788422399485df686d352aa74913e3c
